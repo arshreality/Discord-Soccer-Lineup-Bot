@@ -1,0 +1,10 @@
+{
+"name": "lineup-maker-bot",
+"version": "1.0.0",
+"description": "This Bot makes lineups for your soccer team",
+"main": "bot.js",
+"author": "arshreality",
+"dependencies”: {}
+}
+
+
