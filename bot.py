@@ -1,7 +1,7 @@
 from keep_alive import keep_alive
 import discord
 
-TOKEN = 'NjA5OTgyMTQyMDkyNDEwODgw.XU-pwA.-jeMAdqEiWLHDnEnJb0DiGgXZRo'
+# TODO: add token here
 
 client = discord.Client()
 
@@ -33,7 +33,3 @@ async def on_message(message):
 
 keep_alive()
 client.run(TOKEN)
-
-
-# De Gea;Wan-Bissaka,Lindelof,Maguire,Dalot;Pogba,Pereira,McTominay;Mata;Rashford,Martial;
-# max(my_list, key=len)
